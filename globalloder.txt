@@ -1,0 +1,1 @@
+https://blog.bitsrc.io/how-to-implement-a-global-loader-in-angular-df111a2c43d9
